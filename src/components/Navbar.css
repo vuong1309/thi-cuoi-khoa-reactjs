@@ -1,0 +1,17 @@
+.navbar {
+    width: 300px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.active-item {
+    border-bottom: 2px solid blue;
+}
